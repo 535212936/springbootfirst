@@ -4,7 +4,7 @@ public class Shiyanti {
     public static void main(String[] args) {
         System.out.println(1111);
     }
-    public void asd(){
+    public void bbbbbb(){
     
     }
 }
